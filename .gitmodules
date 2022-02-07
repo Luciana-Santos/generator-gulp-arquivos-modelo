@@ -1,0 +1,6 @@
+[submodule "generators/app/gulp-arquivos-modelo"]
+	path = generators/app/gulp-arquivos-modelo
+	url = https://github.com/Luciana-Santos/gulp-arquivos-modelo
+[submodule "generators/app/templates"]
+	path = generators/app/templates
+	url = https://github.com/Luciana-Santos/gulp-arquivos-modelo

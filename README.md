@@ -1,16 +1,16 @@
-# generator-gulp-arquivos-modelo [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Generates a scaffolding for a front-end workflow with Gulp and Sass
+# generator-gulp-arquivos-modelo
+> Gerador de arquivos para projetos com Gulp e Sass.
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-gulp-arquivos-modelo using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+Primeiro, instale [Yeoman](http://yeoman.io) e generator-gulp-arquivos-modelo usando [npm](https://www.npmjs.com/) (considerando que já tenha o pré-instalado [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
 npm install -g generator-gulp-arquivos-modelo
 ```
 
-Then generate your new project:
+Após, execute o seguinte código para gerar um novo projeto:
 
 ```bash
 yo gulp-arquivos-modelo
@@ -26,13 +26,3 @@ yo gulp-arquivos-modelo
 ## License
 
 ISC © [thecodercoder]()
-
-
-[npm-image]: https://badge.fury.io/js/generator-gulp-arquivos-modelo.svg
-[npm-url]: https://npmjs.org/package/generator-gulp-arquivos-modelo
-[travis-image]: https://travis-ci.com/ Luciana-Santos /generator-gulp-arquivos-modelo.svg?branch=master
-[travis-url]: https://travis-ci.com/ Luciana-Santos /generator-gulp-arquivos-modelo
-[daviddm-image]: https://david-dm.org/ Luciana-Santos /generator-gulp-arquivos-modelo.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/ Luciana-Santos /generator-gulp-arquivos-modelo
-[coveralls-image]: https://coveralls.io/repos/ Luciana-Santos /generator-gulp-arquivos-modelo/badge.svg
-[coveralls-url]: https://coveralls.io/r/ Luciana-Santos /generator-gulp-arquivos-modelo

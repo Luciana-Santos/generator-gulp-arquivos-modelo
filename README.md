@@ -1,7 +1,7 @@
 # generator-gulp-arquivos-modelo
 > Gerador de arquivos para projetos com Gulp e Sass.
 
-## Installation
+## Instalação
 
 Primeiro, instale [Yeoman](http://yeoman.io) e generator-gulp-arquivos-modelo usando [npm](https://www.npmjs.com/) (considerando que já tenha o pré-instalado [node.js](https://nodejs.org/)).
 
@@ -16,7 +16,7 @@ Após, execute o seguinte código para gerar um novo projeto:
 yo gulp-arquivos-modelo
 ```
 
-## Getting To Know Yeoman
+## Conheça Yeoman
 
  * Yeoman has a heart of gold.
  * Yeoman is a person with feelings and opinions, but is very easy to work with.

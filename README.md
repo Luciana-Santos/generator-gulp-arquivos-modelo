@@ -16,7 +16,7 @@ Após, execute o seguinte código para gerar um novo projeto:
 yo gulp-arquivos-modelo
 ```
 
-[Yeoman](http://yeoman.io/)
+Gerador criado com: [Yeoman](http://yeoman.io/)
 
 ## License
 

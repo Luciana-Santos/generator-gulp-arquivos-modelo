@@ -25,4 +25,6 @@ yo gulp-arquivos-modelo
 
 ## License
 
-ISC © [thecodercoder]()
+ISC © [thecodercoder](https://github.com/thecodercoder)
+
+> Projeto criado com base no original de [thecodercoder - generator-gulp-sass-boilerplate](https://github.com/thecodercoder/generator-gulp-sass-boilerplate)

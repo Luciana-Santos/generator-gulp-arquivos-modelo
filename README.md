@@ -3,14 +3,18 @@
 
 ## Instalação
 
-Primeiro, instale Yeoman e generator-gulp-arquivos-modelo usando [npm](https://www.npmjs.com/) (considerando que já tenha o [node.js](https://nodejs.org/) pré-instalado).
+Primeiro, instale Yeoman (que é o responsavel pelo gerador): 
 
 ```bash
 npm install -g yo
+```
+
+Depois instale o próprio gerador:
+```bash
 npm install -g generator-gulp-arquivos-modelo
 ```
 
-Após, execute o seguinte código para gerar um novo projeto:
+Por fim, execute o seguinte código para gerar um novo projeto:
 
 ```bash
 yo gulp-arquivos-modelo

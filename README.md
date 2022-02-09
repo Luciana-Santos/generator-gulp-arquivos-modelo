@@ -20,6 +20,6 @@ Gerador criado com: [Yeoman](http://yeoman.io/)
 
 ## License
 
-ISC © [thecodercoder](https://github.com/thecodercoder)
+ISC © [Luciana Santos](https://github.com/Luciana-Santos)
 
 > Projeto criado com base no original de [thecodercoder - generator-gulp-sass-boilerplate](https://github.com/thecodercoder/generator-gulp-sass-boilerplate)

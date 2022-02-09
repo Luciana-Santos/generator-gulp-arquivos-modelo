@@ -3,7 +3,7 @@
 
 ## Instalação
 
-Primeiro, instale [Yeoman](http://yeoman.io) e generator-gulp-arquivos-modelo usando [npm](https://www.npmjs.com/) (considerando que já tenha o pré-instalado [node.js](https://nodejs.org/)).
+Primeiro, instale [Yeoman](http://yeoman.io) e generator-gulp-arquivos-modelo usando [npm](https://www.npmjs.com/) (considerando que já tenha o [node.js](https://nodejs.org/) pré-instalado).
 
 ```bash
 npm install -g yo
